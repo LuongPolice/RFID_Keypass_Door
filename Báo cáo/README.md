@@ -14,6 +14,7 @@ Khóa cửa thông minh sử dụng RFID, Keypass
 
 ### 3. Keyad 3*4
 ![anh](Keypad.png)
+
 4. Màn hình LCD 16x2 & Module I2C
 
 ![anh](LCD.png)
