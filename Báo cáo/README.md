@@ -32,3 +32,6 @@ Khóa cửa thông minh sử dụng RFID, Keypass
 ### 3. Mô tả hoạt động của hệ thống
  - Nếu dùng phương pháp quẹt thẻ,thẻ ta quẹt mà đúng thì cửa sẽ tự động mở và sẽ hiển thị trạng thái trên màn LCD,nếu nhập sai cửa sẽ không mở và đồng thời có cảnh báo hiển thị trên màn LCD, quá 3 lần sai thì còi sẽ báo động,sau đó ta sẽ phải chờ một thời gian thì mới có thể nhập lại.
  - Nếu ta dùng phương pháp nhập mật mã ( Password):Nhập mật khẩu đúng cửa sẽ được mở và hiển thị trạng thái lên màn LCD,nếu nhập sai cửa sẽ không mở và đồng thời có cảnh báo hiển thị trên màn LCD, quá 3 lần sai thì còi sẽ báo động,sau đó ta sẽ phải chờ một thời gian thì mới có thể nhập lại.
+
+### 4. Video demo
+![link](https://youtube.com/shorts/W4uyoT7d5WM)
