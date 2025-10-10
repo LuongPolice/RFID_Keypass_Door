@@ -3,7 +3,7 @@ Khóa cửa thông minh sử dụng RFID, Keypass
 
 ## I. Linh kiện sử dụng
 ### 1. Arduino Uno R3: 
-	- Một trong những bo mạch phổ biến nhất trên thị trường với việc tích hợp vi điều khiển ATmega328P và chip giao tiếp USB CH340. Với kiến trúc dễ dàng sử dụng và cấu hình, nó cho phép người dùng làm việc trực tiếp với các bộ cảm biến, module và các linh kiện điện tử khác để tạo nên các ứng dụng tùy chỉnh độc đáo của riêng mình.
+	- Một trong những bo mạch phổ biến nhất trên thị trường với việc tích hợp vi điều khiển ATmega328P và chip giao tiếp USB CH340. Với kiến trúc dễ dàng sử dụng và cấu hình, nó cho phép người dùng làm việc trực tiếp với các bộ cảm biến, module và các linh kiện điện tử khác để tạo nên các ứng dụng tùy chỉnh độc đáo.
 
 ![anh](arduino_uno.jpg)
 
