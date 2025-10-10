@@ -34,4 +34,4 @@ Khóa cửa thông minh sử dụng RFID, Keypass
  - Nếu ta dùng phương pháp nhập mật mã ( Password):Nhập mật khẩu đúng cửa sẽ được mở và hiển thị trạng thái lên màn LCD,nếu nhập sai cửa sẽ không mở và đồng thời có cảnh báo hiển thị trên màn LCD, quá 3 lần sai thì còi sẽ báo động,sau đó ta sẽ phải chờ một thời gian thì mới có thể nhập lại.
 
 ### 4. Video demo
-![link](https://youtube.com/shorts/W4uyoT7d5WM)
+![demo](https://www.youtube.com/shorts/W4uyoT7d5WM)
